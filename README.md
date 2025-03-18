@@ -83,7 +83,7 @@
 - **faq**: 차량 FAQ 정보  
 
 ### ERD 다이어그램  
-![ERD 다이어그램](사진_경로)  
+<img width="523" alt="erd_final" src="https://github.com/user-attachments/assets/82b41f79-2265-4156-9e4f-8937d22e0b2b" />
 
 
 ## 7. 주요 프로시저 및 수행 결과
