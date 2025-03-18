@@ -95,23 +95,23 @@
 ## 7. 주요 프로시저 및 수행 결과
 
 ### 7.1. 메인 프로시저  
-![메인 프로시저](사진_경로)  
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/766aaa07-b9b0-4db7-b490-09d4db31376f" />
 
 ### 7.2. 모델 별 판매 순위 프로시저  
 - 기간별 모델 판매 순위 정보 제공  
-![모델 판매 순위](사진_경로)  
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/5263dc3c-70f6-4baf-84f7-cc3ccf202e17" />
 
 ### 7.3. 브랜드 별 판매 순위 프로시저  
 - 특정 브랜드 별 판매 순위 정보 제공  
-![브랜드 판매 순위](사진_경로)  
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/6bb067c7-0ce3-42c5-aabc-d7ab3982b149" />
 
 ### 7.4. 차량 세부 정보 조회 프로시저  
 - 모델 별 세부 정보 제공  
-![차량 세부 정보](사진_경로)  
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/aecf25de-a78e-4a28-9bbd-e2ee0677a08c" />
 
 ### 7.5 FAQ 프로시저  
 - 브랜드 별 빈도 높은 상위 10개 질문 정보 제공  
-![FAQ 프로시저](사진_경로)  
+ <img width="1280" alt="image" src="https://github.com/user-attachments/assets/f1451a61-de1b-471a-9190-0493802edabc" />
 
 ---
 
