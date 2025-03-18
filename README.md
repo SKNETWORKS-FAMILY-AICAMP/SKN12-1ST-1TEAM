@@ -33,7 +33,7 @@
 ## 3. 기술 스택
 ---
 ### 3.1. 프론트엔드  
-- <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=streamlit&logoColor=#FF4B4B"/>웹 대시보드 프레임워크 (데이터 시각화 및 조회 시스템)  
+- <img src="https://img.shields.io/badge/streamlit-F9AB00?style=plastic&logo=streamlit&logoColor=#FF4B4B"/>웹 대시보드 프레임워크 (데이터 시각화 및 조회 시스템)  
 
 ### 3.2. 백엔드  
 - 데이터 처리 및 비즈니스 로직 구현  
