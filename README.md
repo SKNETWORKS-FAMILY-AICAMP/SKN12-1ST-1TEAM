@@ -33,12 +33,12 @@
 ## 3. 기술 스택
 ---
 ### 3.1. 프론트엔드  
-- <img src="https://img.shields.io/badge/streamlit-F9AB00?style=plastic&logo=streamlit&logoColor=#FF4B4B"/>웹 대시보드 프레임워크 (데이터 시각화 및 조회 시스템)  
+- <img src="https://img.shields.io/badge/streamlit-F9AB00?style=plastic&logo=streamlit&logoColor=#FF4B4B"/>: 웹 대시보드 프레임워크 (데이터 시각화 및 조회 시스템)  
 
 ### 3.2. 백엔드  
-- 데이터 처리 및 비즈니스 로직 구현  
-- 데이터베이스 관리 및 저장  
-- 데이터 분석 및 필터링 처리  
+- <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>: 데이터 처리 및 비즈니스 로직 구현  
+- <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=streamlit&logoColor=white"/>: 데이터베이스 관리 및 저장  
+- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=streamlit&logoColor=white"/>: 데이터 분석 및 필터링 처리  
 
 
 ## 4. WBS (Work Breakdown Structure)
